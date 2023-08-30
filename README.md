@@ -13,6 +13,9 @@ For example, if you have an image file named "myimage.jpg" located in the "C:\Im
 
 ```
 C:\Images\myimage.jpg
+
+![Screenshot 2023-08-30 232437](https://github.com/sandeepnb1/PictoPass/assets/84721143/5dfa4b4e-b275-4688-b578-fc99c6b5f846)
+
 ```
 
 Please note that you should enter the file location with the correct file path syntax for your operating system. For example, on Linux or macOS, the file path separator is "/", not "" like on Windows.
